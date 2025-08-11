@@ -3,6 +3,7 @@ This is a simple project created in TIA Portal V17 with PLCSIM V17, using the fi
 
 📌 Objective
 When the sensor does not detect any object, the conveyor moves.
+
 When the sensor detects an object, the conveyor stops.
 
 📂 Project Structure
@@ -15,4 +16,5 @@ FactoryIO/ → Scene file for Factory I/O.
 Demo/ → Short video demonstration.
 
 🎥 Demonstration
+
 A short video is included, showing the TIA Portal, PLCSIM, and Factory I/O working together.
