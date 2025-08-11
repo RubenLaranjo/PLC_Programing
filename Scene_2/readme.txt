@@ -1,5 +1,5 @@
 Basic PLC Project – TIA Portal V17 + PLCSIM V17 + Factory I/O
-This is a simple project created in TIA Portal V17 with PLCSIM V17, using the first scene of Factory I/O.
+This is a simple project created in TIA Portal V17 with PLCSIM V17, using the secound scene of Factory I/O.
 
 📌 Objective
 The entry conveyor is always active.
@@ -19,4 +19,5 @@ Demo/ → Short video demonstration.
 
 🎥 Demonstration
 A short video is included, showing TIA Portal, PLCSIM, and Factory I/O working together.
+
 
